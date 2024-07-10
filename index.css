@@ -33,11 +33,11 @@ nav .text-matricula{
     color: white;
 }
 .caja1{
-    width: 605px;
-    height: 405px;
+    max-width: 605px;
     background-color: #112E4F;
     color: white;
     float: right;
-    padding: 25px;
-    font-size: 19px;
+    padding: 8px;
+    font-size: 17px;
+    max-height: 430px;
 }
